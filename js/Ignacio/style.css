@@ -1,0 +1,27 @@
+/*.cuentame{
+    display: grid;
+    grid-template-columns: 50% 30% 20%;
+    grid-gap: 20px;
+}
+.box{
+    background: slateblue;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+}*/
+nav{
+    background: #00b8a9;
+    padding: 30px;
+}
+.Ragnarok{
+    background: brown;
+    color: wheat;
+    padding: 30px;
+    width: 26px;
+    margin: 10px;
+
+}
+.paf{
+    display: flex;
+     
+}

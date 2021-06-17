@@ -1,0 +1,58 @@
+/*.btn{
+    background: black;
+    color: wheat;
+}
+.btn:hover{
+    background:yellow;
+    color:red;
+}
+.btn:active{
+    background:tomato;
+    color: thistle;
+}*/
+.Inicios{
+    border: black solid 1px;
+    display: inline-block;
+    background: salmon;
+    color: white;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+.Inicios:hover{
+    background: rosybrown;
+}
+.Menu{
+    background: salmon;
+    color: #fff;
+    padding: 10px 0;
+    border: 2px solid #fff;
+    display: none;
+}
+nav{
+    background: rebeccapurple;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+  
+}
+
+
+@media( max-width: 600px){
+   nav{
+       background: black;
+       flex-direction: column;
+   }
+   .Inicios{
+       margin: 10px 0;
+   }
+   .Inicios:hover{
+       background: blue;
+   }
+   .Menu{
+       display: inline-block;
+
+   }
+   
+    
+}
+

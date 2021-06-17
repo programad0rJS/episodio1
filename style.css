@@ -1,0 +1,110 @@
+/*.btn{
+     color: white;
+     background-color: crimson;
+     padding: 5px;
+     margin: 4px;
+}
+.titulo{
+    font-family:'Courier New', Courier, monospace;
+    margin: 44px;
+}
+
+li{
+list-style: none;
+background-color: crimson;
+   color: white;
+   padding: 15px 5% ;
+   margin: 55px;
+   border: 6px solid black; 
+   list-style: none;
+}
+
+.img{
+    width: 150px;
+}
+
+
+a{
+    text-decoration: ay none ay casi todos 
+     yo pense que era otra cosa
+    jajaja
+     ;
+}
+
+
+
+table, th , td{
+    margin: 55px;
+    padding: 15px 5%;
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+
+
+#color{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.color{
+    color: blueviolet;
+}
+
+
+*/
+
+
+/*h2 , p , b , small{
+    color: red;
+}
+
+.Rojo{
+    border: 29px solid red;
+}
+
+
+
+*/
+/*.Punteado{
+   /* border-style: double;
+    /*Puedes eligir*/
+/*}
+
+/*.Bordes{
+    border-style: dotted;
+}
+
+#Fuente{
+    font-family: 'Viaoda Libre', cursive; 
+
+}
+
+*{
+    cursor: pointer;
+ 
+}
+div{
+    position:relative;
+    top: 310px;
+    left: 90px;
+    max-width: 85%;
+    border: 19px solid rgb(164, 214, 27);
+    margin: auto;
+    
+}
+div:hover{
+
+    border: 19px solid rgb(216, 40, 9);
+   
+    
+}
+h1{
+    position:relative;
+    top: 310px;
+    left: 720px;
+    max-width: 85%;  
+}
+
+
+
+*/
+
+
